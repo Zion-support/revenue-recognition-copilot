@@ -15,6 +15,10 @@ This app is part of the **Zion Tech Group App Network** (800+ AI-powered busines
 - [AI FinOps Suite](https://ziontechgroup.com/ai-finops-suite/)
 - [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/)
 
+## 🌟 FinOps & Cloud Cost Suite (GitHub)
+- [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) · [Cloud Cost Estimator](https://github.com/Zion-support/cloud-cost-estimator) · [AI Cloud Optimizer](https://github.com/Zion-support/ai-cloud-optimizer) · [AI Compute Optimizer](https://github.com/Zion-support/ai-compute-optimizer) · [AI Billing Automation](https://github.com/Zion-support/ai-billing-automation)
+- Suite spotlight: [finops-cloud-cost-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/finops-cloud-cost-suite.md)
+
 ## About this app
 **Revenue Recognition Copilot** — live at https://ziontechgroup.com/revenue-recognition-copilot/ — source: https://github.com/Zion-support/revenue-recognition-copilot
 
